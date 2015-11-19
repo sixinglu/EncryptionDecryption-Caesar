@@ -1,0 +1,8 @@
+Author: Sixing Lu
+Time: 2014-2-13
+
+1. implement encode with caesar (read from a file)
+2. calculate the gam1 and gam2 frequency of encoded string
+3. decode the string by frequency calculated by gam1
+
+Argument: caesar example.txt
